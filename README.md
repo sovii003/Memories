@@ -13,4 +13,4 @@ The first version encompasses the following features:
 4. Post Updation
 5. Like operation and post likes count
 
-The subsequent version implements user authentication alongside pagination, search and comments on post feature.
+<!-- The subsequent version implements user authentication alongside pagination, search and comments on post feature. -->
